@@ -2,6 +2,7 @@
 #define _DEBUG_H_
 
 #include "ANSI_ColorCode.h"
+#include <stdbool.h>
 
 extern unsigned char debug_level; // Manage debug_level globally
 
